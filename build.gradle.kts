@@ -54,6 +54,6 @@ dependencies {
     implementation("org.http4k:http4k-format-jackson")
     testImplementation("org.junit.jupiter:junit-jupiter-api:5.13.4")
     testImplementation("org.junit.jupiter:junit-jupiter-engine:5.13.4")
-    testImplementation("org.junit.platform:junit-platform-launcher:1.13.3")
+    testImplementation("org.junit.platform:junit-platform-launcher:1.13.4")
 }
 
