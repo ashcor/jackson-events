@@ -1,0 +1,7 @@
+# JacksonEvents
+
+## Test
+```
+./gradlew test
+```
+
